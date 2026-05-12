@@ -1,41 +1,71 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=36&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=⚡+DevForge+Studio;Building+Digital+Solutions;From+India+🇮🇳+with+%E2%9D%A4%EF%B8%8F" alt="DevForge Studio" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=DevForge%20Studio&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Building%20Digital%20Solutions%20from%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-realsunil.github.io/devforge-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://realsunil.github.io/devforge/)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8ERK2KfFX5)
-[![Instagram](https://img.shields.io/badge/Instagram-realsunil__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/realsunil__)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Discord+Bots+%E2%80%A2+Websites+%E2%80%A2+Portfolios;Budget-friendly+digital+solutions;Fast+delivery.+Clean+code.+24%2F7+support.;Open+for+freelance+projects+%E2%9A%A1" alt="Typing SVG" />
+
+<br/><br/>
+
+[![Website](https://img.shields.io/badge/Website-devforge-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://realsunil.github.io/devforge/)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8ERK2KfFX5)
+[![Instagram](https://img.shields.io/badge/Instagram-@realsunil__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/realsunil__)
 [![GitHub](https://img.shields.io/badge/GitHub-realsunil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/realsunil)
-
-<br/>
-
-> **Budget-friendly digital solutions — Discord bots, websites, and portfolios — crafted with care from India.**
+[![Email](https://img.shields.io/badge/Email-hustlewithsunil-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hustlewithsunil@gmail.com)
 
 </div>
 
 ---
 
-## 👋 About DevForge Studio
+## 👋 Who We Are
 
-**DevForge Studio** is a freelance development studio run by **Sunil**, a developer and gamer from India 🇮🇳. We build custom Discord bots, modern websites, and professional portfolios that help businesses and communities grow online — at prices that don't break the bank.
+**DevForge Studio** is a freelance development studio run by **Sunil**, a developer and gamer from India 🇮🇳.
 
-- 🚀 **100+** Projects Completed
-- 😊 **95%** Client Satisfaction Rate
-- 💼 **3+ Years** of Experience
-- ⚡ **Open** for freelance projects
+We build things that actually work — custom Discord bots that keep communities alive, clean websites that convert visitors, and portfolios that make developers stand out. All at prices built for the Indian market, without sacrificing quality.
+
+<br/>
+
+<div align="center">
+
+| 🚀 Projects | 😊 Satisfaction | 💼 Experience | ⚡ Status |
+|:-----------:|:---------------:|:-------------:|:---------:|
+| **100+** | **95%** | **3+ Years** | **Open** |
+
+</div>
 
 ---
 
 ## 🛠️ What We Build
 
-| Service | Description |
-|---|---|
-| 🤖 **Discord Bot Development** | Custom bots for moderation, music, economy, leveling, tickets & more |
-| 🖥️ **Discord Server Setup** | Channel structure, role hierarchy, bot integration & security |
-| 🌐 **Website Development** | Business sites, landing pages, e-commerce — responsive & SEO-optimized |
-| 💼 **Portfolio Creation** | Personal branding sites for students, developers & professionals |
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=discord" width="48"/><br/>
+<b>Discord Bots</b><br/>
+<sub>Moderation, music, economy,<br/>leveling, tickets & more</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>
+<b>Server Setup</b><br/>
+<sub>Channels, roles, permissions<br/>& bot integration</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=react" width="48"/><br/>
+<b>Websites</b><br/>
+<sub>Business sites, landing pages<br/>& e-commerce</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=figma" width="48"/><br/>
+<b>Portfolios</b><br/>
+<sub>Personal branding for devs,<br/>students & professionals</sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -43,64 +73,63 @@
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,discord,mongodb,html,css,tailwind,bootstrap,git,figma&perline=6" />
 
 </div>
 
 ---
 
-## 💎 Pricing Packages
+## 📊 GitHub Activity
 
-| Package | Price | Best For |
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=realsunil&bg_color=0d1117&color=6366f1&line=6366f1&point=a5b4fc&area=true&hide_border=true" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=realsunil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=a5b4fc" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=realsunil&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=a5b4fc&currStreakLabel=6366f1" height="165"/>
+
+</div>
+
+---
+
+## ✨ Why DevForge?
+
+<div align="center">
+
+| | | |
 |---|---|---|
-| 🟢 **Basic** | ₹99 | Simple bots / 3-page websites, 2 revisions |
-| 🔵 **Standard** | ₹299 | Advanced bots / full websites, unlimited revisions |
-| 🟣 **Premium** | ₹499 | Enterprise solutions + source code + 30-day support |
-
-> 💡 Custom quotes available for larger or unique projects. [Get in touch!](mailto:hustlewithsunil@gmail.com)
-
----
-
-## ✨ Why Choose DevForge?
-
-- ⚡ **Fast Delivery** — Quick turnarounds without cutting corners
-- 🛡️ **Quality Assured** — Rigorous testing on every project
-- 🎧 **24/7 Support** — Always reachable on Discord
-- ₹ **Budget Friendly** — Designed for the Indian market
-- 🔄 **Free Revisions** — Until you're completely satisfied
-- 🧹 **Clean Code** — Well-documented and maintainable
-
----
-
-## 📬 Get In Touch
-
-<div align="center">
-
-| Platform | Link |
-|---|---|
-| 📧 Email | [hustlewithsunil@gmail.com](mailto:hustlewithsunil@gmail.com) |
-| 💬 Discord | [@realsunil](https://discord.gg/8ERK2KfFX5) |
-| 🌐 Website | [realsunil.github.io/devforge](https://realsunil.github.io/devforge/) |
-| 📸 Instagram | [@realsunil__](https://www.instagram.com/realsunil__) |
-| 🐙 GitHub | [github.com/realsunil](https://github.com/realsunil) |
+| ⚡ **Fast Delivery** | 🛡️ **Quality Assured** | 🎧 **24/7 Support** |
+| Quick turnarounds without cutting corners | Rigorous testing on every project | Always reachable on Discord, no ghosting |
+| ₹ **Budget Friendly** | 🔄 **Free Revisions** | 🧹 **Clean Code** |
+| Built specifically for the Indian market | We iterate until you're fully satisfied | Well-documented and maintainable |
 
 </div>
 
 ---
 
+## 📬 Work With Us
+
+Have a project in mind? Let's build something great together.
+
 <div align="center">
 
-<sub>© 2024 DevForge Studio by Sunil • Made with ❤️ in India 🇮🇳</sub>
+[![Email](https://img.shields.io/badge/hustlewithsunil@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hustlewithsunil@gmail.com)
+[![Discord](https://img.shields.io/badge/discord.gg/8ERK2KfFX5-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/8ERK2KfFX5)
+[![Website](https://img.shields.io/badge/realsunil.github.io/devforge-6366f1?style=flat-square&logo=googlechrome&logoColor=white)](https://realsunil.github.io/devforge/)
+[![Instagram](https://img.shields.io/badge/@realsunil__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/realsunil__)
 
+<br/>
+
+**[⚡ Start a Project →](mailto:hustlewithsunil@gmail.com)**
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer&animation=fadeIn" />
+
+<div align="center">
+<sub>© 2025 DevForge Studio · Built with ❤️ in India 🇮🇳</sub>
 </div>
